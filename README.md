@@ -1,5 +1,3 @@
-# ECS 150 Project 1 Report
-
 ## Architecture: 3-stage Pipeline
 
 We build a 3-stage pipeline to streamline the processing of command-lines:
