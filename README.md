@@ -1,6 +1,3 @@
-## Enviorment
-This project is built for Linux system.
-
 ## Architecture: 3-stage Pipeline
 
 We build a 3-stage pipeline to streamline the processing of command-lines:
@@ -112,3 +109,7 @@ redirects the standard output and error of both implementations to different
 files, and use `diff` to display the differences between the redirected files.
 Out test cases include not only those available on the project specs but also
 extra ones that cover more edge cases based on the feature specification.
+
+### Enviorment
+This project is built for Linux system.
+
