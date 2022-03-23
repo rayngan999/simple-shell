@@ -1,3 +1,6 @@
+## Enviorment
+This project is built for Linux system.
+
 ## Architecture: 3-stage Pipeline
 
 We build a 3-stage pipeline to streamline the processing of command-lines:
