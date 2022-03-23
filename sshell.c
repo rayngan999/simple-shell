@@ -354,6 +354,8 @@ int parse_command(const char* cmdline, struct process* procs[])
         /* terminate process array */
         procs[i + 1] = NULL;
 
+        free(tokens);
+
         return 0;
 }
 
